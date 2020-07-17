@@ -1,0 +1,7 @@
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\bin\Debug\Businessman.exe.config
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\bin\Debug\Businessman.exe
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\bin\Debug\Businessman.pdb
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\obj\Debug\Businessman.csprojAssemblyReference.cache
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\obj\Debug\Businessman.csproj.CoreCompileInputs.cache
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\obj\Debug\Businessman.exe
+C:\Users\$TE6300-LSHIE47J2CJP\source\repos\Businessman\Businessman\obj\Debug\Businessman.pdb

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Businessman.Bank">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Businessman.Bank.AccountStateHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Bank.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAEAEAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Businessman.Gas_station">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Businessman.Gas_station.Patrol_sold" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gas_station.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAAAAAAAAACAAAAAACBAAAIAAAAAA=</HashCode>
+      <FileName>Gas_station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Businessman.Oil_well">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Businessman.Oil_well.Mined_oil" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Oil_well.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAIABAQAAAAAAAAAAAAAAABAAAIAAAAAA=</HashCode>
+      <FileName>Oil_well.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Businessman.Processing_plant">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Businessman.Processing_plant.Mined_patrol" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Processing_plant.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAEAAAAAABAAAYAAAEEA=</HashCode>
+      <FileName>Processing_plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Businessman.Program">
+    <Position X="8.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
